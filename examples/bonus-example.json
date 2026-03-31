@@ -1,0 +1,10 @@
+{
+  "bonus_amount": 100,
+  "wagering_multiplier": 35,
+  "wagering_required": 3500,
+  "game_contribution": {
+    "slots": 100,
+    "table_games": 10,
+    "live_casino": 0
+  }
+}
